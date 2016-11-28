@@ -1,0 +1,22 @@
+form {
+    background-color: #FFF;
+    max-width: 80%;
+    margin: 10vh auto;
+}
+.searchForm {
+    border-bottom: 1px solid grey;
+    margin-bottom: 3vh;
+    padding: 30px;
+}
+legend {
+    padding-top: 20px;
+}
+fieldset > div, legend {
+    margin: 20px 20px;
+}
+.wrap {
+    text-align: center;
+}
+.centerText {
+    text-align: center !important;
+}
